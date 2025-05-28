@@ -1,4 +1,4 @@
-let omdbKey = "d95d88b7"; // Make sure this key is activated via your email link
+let omdbKey = "YOUR_OMDB_API_KEY"; // Make sure this key is activated via your email link
 
 function search() {
   const inputTag = document.getElementById("input");
